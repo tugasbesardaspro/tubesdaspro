@@ -28,44 +28,41 @@ if video_url:
     ## Rating: {} 
     '''.format(video.title , video.length , video.rating))
 
-    # @st.cache
-    def subType(param1, param2):
-        global subtype
-        global btntype
-
-        subtype = param1
-        btntype = param2
-
-        return subtype, btntype
-
     if genre == '360 P':
         video_streams = video.streams.filter(file_extension='mp4')
-        getId = video_streams.get_by_itag(18)
-        subType('mp4', 'video')
+        getId = video_streams.get_by_itag(18)        
+        subtype = 'mp4'
+        btntype = 'video'
     elif genre == '720 P':
         video_streams = video.streams.filter(file_extension='mp4')
         getId = video_streams.get_by_itag(22)
-        subType('mp4', 'video')        
+        subtype = 'mp4'
+        btntype = 'video'
     elif genre == '1080 P':
         video_streams = video.streams.filter(file_extension='mp4')
         getId = video_streams.get_by_itag(137)
-        subType('mp4', 'video')
+        subtype = 'mp4'
+        btntype = 'video'
     elif genre == 'audio/mp4 (128 kbps)':
         video_streams = video.streams.filter(only_audio=True)
         getId = video_streams.get_by_itag(140)
-        subType('mp4', 'audio')
+        subtype = 'mp4'
+        btntype = 'audio'
     elif genre == 'audio/webm (50 kbps)':
         video_streams = video.streams.filter(only_audio=True)
         getId = video_streams.get_by_itag(249)
-        subType('webm', 'audio')
+        subtype = 'webm'
+        btntype = 'audio'
     elif genre == 'audio/webm (70 kbps)':
         video_streams = video.streams.filter(only_audio=True)
         getId = video_streams.get_by_itag(250)
-        subType('webm', 'audio')
+        subtype = 'webm'
+        btntype = 'audio'
     elif genre == 'audio/webm (160 kbps)':
         video_streams = video.streams.filter(only_audio=True)
         getId = video_streams.get_by_itag(251)
-        subType('webm', 'audio')
+        subtype = 'webm'
+        btntype = 'audio'
 
     if getId:
         getId.download(f"{link}download")        
