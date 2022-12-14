@@ -2,7 +2,7 @@ import streamlit as st
 from pytube import YouTube
 
 
-link = 'https://github.com/tugasbesardaspro/tubesdaspro/tree/main/components/youtube_downloader/download/'
+link = './components/youtube_downloader/download/'
 
 st.image(f'./components/youtube_downloader/yt.png', use_column_width=True)
 st.header("APLIKASI DOWNLOAD VIDEO DAN AUDIO YOUTUBE")
@@ -63,7 +63,7 @@ if video_url:
         btntype = 'audio'
 
     if getId:
-        getId.download(f'./components/youtube_downloader/download/')
+        getId.download(link)
         video_file = open(f"{link}{video.title}.{subtype}", "rb")
         video_bytes = video_file.read()
 
