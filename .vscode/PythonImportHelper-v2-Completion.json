@@ -1,0 +1,899 @@
+[
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "isExtraImport": true,
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "turtle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "turtle",
+        "description": "turtle",
+        "detail": "turtle",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit.components.v1",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit.components.v1",
+        "description": "streamlit.components.v1",
+        "detail": "streamlit.components.v1",
+        "documentation": {}
+    },
+    {
+        "label": "persegi",
+        "importPath": "components.bangun_datar.persegi",
+        "description": "components.bangun_datar.persegi",
+        "isExtraImport": true,
+        "detail": "components.bangun_datar.persegi",
+        "documentation": {}
+    },
+    {
+        "label": "persegi_panjang",
+        "importPath": "components.bangun_datar.persegi_panjang",
+        "description": "components.bangun_datar.persegi_panjang",
+        "isExtraImport": true,
+        "detail": "components.bangun_datar.persegi_panjang",
+        "documentation": {}
+    },
+    {
+        "label": "lingkaran",
+        "importPath": "components.bangun_datar.lingkaran",
+        "description": "components.bangun_datar.lingkaran",
+        "isExtraImport": true,
+        "detail": "components.bangun_datar.lingkaran",
+        "documentation": {}
+    },
+    {
+        "label": "segitiga",
+        "importPath": "components.bangun_datar.segitiga",
+        "description": "components.bangun_datar.segitiga",
+        "isExtraImport": true,
+        "detail": "components.bangun_datar.segitiga",
+        "documentation": {}
+    },
+    {
+        "label": "kecepatan",
+        "importPath": "components.kecepatan.kecepatan",
+        "description": "components.kecepatan.kecepatan",
+        "isExtraImport": true,
+        "detail": "components.kecepatan.kecepatan",
+        "documentation": {}
+    },
+    {
+        "label": "jarak",
+        "importPath": "components.kecepatan.jarak",
+        "description": "components.kecepatan.jarak",
+        "isExtraImport": true,
+        "detail": "components.kecepatan.jarak",
+        "documentation": {}
+    },
+    {
+        "label": "waktu",
+        "importPath": "components.kecepatan.waktu",
+        "description": "components.kecepatan.waktu",
+        "isExtraImport": true,
+        "detail": "components.kecepatan.waktu",
+        "documentation": {}
+    },
+    {
+        "label": "fahrenheit",
+        "importPath": "components.suhu.fahrenheit",
+        "description": "components.suhu.fahrenheit",
+        "isExtraImport": true,
+        "detail": "components.suhu.fahrenheit",
+        "documentation": {}
+    },
+    {
+        "label": "reamur",
+        "importPath": "components.suhu.reamur",
+        "description": "components.suhu.reamur",
+        "isExtraImport": true,
+        "detail": "components.suhu.reamur",
+        "documentation": {}
+    },
+    {
+        "label": "kelvin",
+        "importPath": "components.suhu.kelvin",
+        "description": "components.suhu.kelvin",
+        "isExtraImport": true,
+        "detail": "components.suhu.kelvin",
+        "documentation": {}
+    },
+    {
+        "label": "penjumlahan",
+        "importPath": "components.operator_matematika.penjumlahan",
+        "description": "components.operator_matematika.penjumlahan",
+        "isExtraImport": true,
+        "detail": "components.operator_matematika.penjumlahan",
+        "documentation": {}
+    },
+    {
+        "label": "pengurangan",
+        "importPath": "components.operator_matematika.pengurangan",
+        "description": "components.operator_matematika.pengurangan",
+        "isExtraImport": true,
+        "detail": "components.operator_matematika.pengurangan",
+        "documentation": {}
+    },
+    {
+        "label": "perkalian",
+        "importPath": "components.operator_matematika.perkalian",
+        "description": "components.operator_matematika.perkalian",
+        "isExtraImport": true,
+        "detail": "components.operator_matematika.perkalian",
+        "documentation": {}
+    },
+    {
+        "label": "pembagian",
+        "importPath": "components.operator_matematika.pembagian",
+        "description": "components.operator_matematika.pembagian",
+        "isExtraImport": true,
+        "detail": "components.operator_matematika.pembagian",
+        "documentation": {}
+    },
+    {
+        "label": "YouTube",
+        "importPath": "pytube",
+        "description": "pytube",
+        "isExtraImport": true,
+        "detail": "pytube",
+        "documentation": {}
+    },
+    {
+        "label": "luas_lingkaran",
+        "kind": 2,
+        "importPath": "components.bangun_datar.lingkaran",
+        "description": "components.bangun_datar.lingkaran",
+        "peekOfCode": "def luas_lingkaran():\n    st.header(\"BANGUN DATAR LINGKARAN\")\n    st.subheader(\"Mencari Luas\")\n    luas_lingkaran = st.number_input(\"Masukkan Jari-Jari :\")\n    btn_luas = btnhasil(1)\n    if btn_luas:\n        result_luas = 3.14 * luas_lingkaran * luas_lingkaran\n        rumusbangundatar(\"Luas\", \"Lingkaran\", \"π x r x r\")\n        resultbangundatar(\"Luas\", \"Lingkaran\", result_luas)\ndef keliling_lingkaran():",
+        "detail": "components.bangun_datar.lingkaran",
+        "documentation": {}
+    },
+    {
+        "label": "keliling_lingkaran",
+        "kind": 2,
+        "importPath": "components.bangun_datar.lingkaran",
+        "description": "components.bangun_datar.lingkaran",
+        "peekOfCode": "def keliling_lingkaran():\n    st.subheader(\"Mencari Keliling\")\n    keliling_lingkaran = st.number_input(\"Masukkan Jari-Jari : \")\n    btn_keliling = btnhasil(2)\n    if btn_keliling:\n        result_keliling = 2 * 3.14 * keliling_lingkaran\n        rumusbangundatar(\"Keliling\", \"Lingkaran\", \"2 x π x r\")\n        resultbangundatar(\"Keliling\", \"Lingkaran\", result_keliling)\ndef lingkaran():\n    import streamlit as st",
+        "detail": "components.bangun_datar.lingkaran",
+        "documentation": {}
+    },
+    {
+        "label": "lingkaran",
+        "kind": 2,
+        "importPath": "components.bangun_datar.lingkaran",
+        "description": "components.bangun_datar.lingkaran",
+        "peekOfCode": "def lingkaran():\n    import streamlit as st\n    luas_lingkaran()\n    keliling_lingkaran()",
+        "detail": "components.bangun_datar.lingkaran",
+        "documentation": {}
+    },
+    {
+        "label": "luas_persegi",
+        "kind": 2,
+        "importPath": "components.bangun_datar.persegi",
+        "description": "components.bangun_datar.persegi",
+        "peekOfCode": "def luas_persegi():\n    st.header(\"BANGUN DATAR PERSEGI\")\n    st.subheader(\"Mencari Luas\")\n    luas_persegi = st.number_input(\"Masukkan Sisi :\")\n    btn_luas = btnhasil(1)\n    if btn_luas:\n        result_luas = luas_persegi * luas_persegi\n        rumusbangundatar(\"Luas\", \"Persegi\", \"S x S\")\n        resultbangundatar(\"Luas\", \"Persegi\", result_luas)\n        # Custom Components Fxn",
+        "detail": "components.bangun_datar.persegi",
+        "documentation": {}
+    },
+    {
+        "label": "keliling_persegi",
+        "kind": 2,
+        "importPath": "components.bangun_datar.persegi",
+        "description": "components.bangun_datar.persegi",
+        "peekOfCode": "def keliling_persegi():\n    st.subheader(\"Mencari Keliling\")\n    keliling_persegi = st.number_input(\"Masukkan Sisi : \")\n    btn_keliling = btnhasil(2)\n    if btn_keliling:\n        result_keliling = 4*keliling_persegi \n        rumusbangundatar(\"Keliling\", \"Persegi\", \"S x 4\")\n        resultbangundatar(\"Keliling\", \"Persegi\", result_keliling)\n         # Custom Components Fxn\n        f=codecs.open(\"./components/htmlFiles/keliling-persegi.html\", 'r')",
+        "detail": "components.bangun_datar.persegi",
+        "documentation": {}
+    },
+    {
+        "label": "persegi",
+        "kind": 2,
+        "importPath": "components.bangun_datar.persegi",
+        "description": "components.bangun_datar.persegi",
+        "peekOfCode": "def persegi():\n    import streamlit as st\n    luas_persegi()\n    keliling_persegi()",
+        "detail": "components.bangun_datar.persegi",
+        "documentation": {}
+    },
+    {
+        "label": "blueprint",
+        "kind": 2,
+        "importPath": "components.bangun_datar.persegi_panjang",
+        "description": "components.bangun_datar.persegi_panjang",
+        "peekOfCode": "def blueprint(param, param2):\n  global panjang_persegi_panjang\n  global lebar_persegi_panjang\n  panjang_persegi_panjang = st.number_input(\"Masukkan Panjang :\", key=param)\n  lebar_persegi_panjang = st.number_input(\"Masukkan Lebar :\" , key=param2)\n  return panjang_persegi_panjang , lebar_persegi_panjang\ndef luas_persegi_panjang():\n  st.header(\"BANGUN DATAR PERSEGI PANJANG\")\n  st.subheader(\"Mencari Luas\")\n  blueprint(4,5)",
+        "detail": "components.bangun_datar.persegi_panjang",
+        "documentation": {}
+    },
+    {
+        "label": "luas_persegi_panjang",
+        "kind": 2,
+        "importPath": "components.bangun_datar.persegi_panjang",
+        "description": "components.bangun_datar.persegi_panjang",
+        "peekOfCode": "def luas_persegi_panjang():\n  st.header(\"BANGUN DATAR PERSEGI PANJANG\")\n  st.subheader(\"Mencari Luas\")\n  blueprint(4,5)\n  btn_luas = btnhasil(2)\n  if btn_luas:\n      result_luas = panjang_persegi_panjang * lebar_persegi_panjang \n      rumusbangundatar(\"Luas\", \"Persegi Panjang\", \"P x L\")\n      resultbangundatar(\"Luas\", \"Persegi Panjang\", result_luas)\ndef keliling_persegi_panjang():",
+        "detail": "components.bangun_datar.persegi_panjang",
+        "documentation": {}
+    },
+    {
+        "label": "keliling_persegi_panjang",
+        "kind": 2,
+        "importPath": "components.bangun_datar.persegi_panjang",
+        "description": "components.bangun_datar.persegi_panjang",
+        "peekOfCode": "def keliling_persegi_panjang():\n  st.subheader(\"Mencari Keliling\")\n  blueprint(7,8)\n  btn_keliling = btnhasil(1)\n  if btn_keliling:\n      result_keliling = (2*panjang_persegi_panjang) + (2*lebar_persegi_panjang)\n      rumusbangundatar(\"Keliling\", \"Persegi Panjang\", \"2P x 2L\")\n      resultbangundatar(\"Keliling\", \"Persegi Panjang\", result_keliling)\ndef persegi_panjang():\n    import streamlit as st",
+        "detail": "components.bangun_datar.persegi_panjang",
+        "documentation": {}
+    },
+    {
+        "label": "persegi_panjang",
+        "kind": 2,
+        "importPath": "components.bangun_datar.persegi_panjang",
+        "description": "components.bangun_datar.persegi_panjang",
+        "peekOfCode": "def persegi_panjang():\n    import streamlit as st\n    luas_persegi_panjang()\n    keliling_persegi_panjang()",
+        "detail": "components.bangun_datar.persegi_panjang",
+        "documentation": {}
+    },
+    {
+        "label": "blueprint",
+        "kind": 2,
+        "importPath": "components.bangun_datar.segitiga",
+        "description": "components.bangun_datar.segitiga",
+        "peekOfCode": "def blueprint(param, param2):\n  global alas_segitiga\n  global tinggi_segitiga\n  alas_segitiga = st.number_input(\"Masukkan Alas :\", key=param)\n  tinggi_segitiga = st.number_input(\"Masukkan Tinggi :\" , key=param2)\n  return alas_segitiga , tinggi_segitiga\ndef keliling(param, param2, param3):\n    global a\n    global b\n    global c",
+        "detail": "components.bangun_datar.segitiga",
+        "documentation": {}
+    },
+    {
+        "label": "keliling",
+        "kind": 2,
+        "importPath": "components.bangun_datar.segitiga",
+        "description": "components.bangun_datar.segitiga",
+        "peekOfCode": "def keliling(param, param2, param3):\n    global a\n    global b\n    global c\n    a = st.number_input(\"Masukkan sisi A :\", key=param)\n    b = st.number_input(\"Masukkan sisi B :\" , key=param2)\n    c = st.number_input(\"Masukkan sisi C :\" , key=param3)\n    return a, b, c\ndef luas_segitiga():\n  st.header(\"BANGUN DATAR SEGITIGA\")",
+        "detail": "components.bangun_datar.segitiga",
+        "documentation": {}
+    },
+    {
+        "label": "luas_segitiga",
+        "kind": 2,
+        "importPath": "components.bangun_datar.segitiga",
+        "description": "components.bangun_datar.segitiga",
+        "peekOfCode": "def luas_segitiga():\n  st.header(\"BANGUN DATAR SEGITIGA\")\n  st.subheader(\"Mencari Luas\")\n  blueprint(4,5)\n  btn_luas = btnhasil(2)\n  if btn_luas:\n      result_luas = 1/2 * alas_segitiga * tinggi_segitiga \n      rumusbangundatar(\"Luas\", \"Segitiga\", \"1/2 x a x t\")\n      resultbangundatar(\"Luas\", \"Segitiga\", result_luas)\ndef keliling_segitiga():",
+        "detail": "components.bangun_datar.segitiga",
+        "documentation": {}
+    },
+    {
+        "label": "keliling_segitiga",
+        "kind": 2,
+        "importPath": "components.bangun_datar.segitiga",
+        "description": "components.bangun_datar.segitiga",
+        "peekOfCode": "def keliling_segitiga():\n  st.subheader(\"Mencari Keliling\")\n  keliling(7,8,9)\n  btn_keliling = btnhasil(1)\n  if btn_keliling:\n      result_keliling = a + b + c\n      rumusbangundatar(\"Keliling\", \"Segitiga\", \"a + b + c\")\n      resultbangundatar(\"Keliling\", \"Segitiga\", result_keliling)\ndef segitiga():\n    import streamlit as st",
+        "detail": "components.bangun_datar.segitiga",
+        "documentation": {}
+    },
+    {
+        "label": "segitiga",
+        "kind": 2,
+        "importPath": "components.bangun_datar.segitiga",
+        "description": "components.bangun_datar.segitiga",
+        "peekOfCode": "def segitiga():\n    import streamlit as st\n    luas_segitiga()\n    keliling_segitiga()",
+        "detail": "components.bangun_datar.segitiga",
+        "documentation": {}
+    },
+    {
+        "label": "jarak",
+        "kind": 2,
+        "importPath": "components.kecepatan.jarak",
+        "description": "components.kecepatan.jarak",
+        "peekOfCode": "def jarak():\n    st.header(\"JARAK\")\n    st.subheader(\"Mencari Jarak\")\n    waktu = st.number_input(\"Masukkan Waktu (s) : \")\n    kecepatan = st.number_input(\"Masukkan Kecepatan : \")\n    btn_keliling = btnhasil(2)\n    if btn_keliling:\n        result_jarak = waktu*kecepatan \n        rumuskecepatan(\"Rumus\", \"Jarak\", \"Waktu x Kecepatan\")\n        resulkecepatan(\"Jarak\", \"Benda\", result_jarak)",
+        "detail": "components.kecepatan.jarak",
+        "documentation": {}
+    },
+    {
+        "label": "jar",
+        "kind": 2,
+        "importPath": "components.kecepatan.jarak",
+        "description": "components.kecepatan.jarak",
+        "peekOfCode": "def jar():\n    import streamlit as st\n    jarak()",
+        "detail": "components.kecepatan.jarak",
+        "documentation": {}
+    },
+    {
+        "label": "kecepatan",
+        "kind": 2,
+        "importPath": "components.kecepatan.kecepatan",
+        "description": "components.kecepatan.kecepatan",
+        "peekOfCode": "def kecepatan():\n    st.header(\"KECEPATAN\")\n    st.subheader(\"Mencari Kecepatan\")\n    jarak = st.number_input(\"Masukkan Jarak (m) :\")\n    waktu = st.number_input(\"Masukkan Waktu (s) :\")\n    btn_luas = btnhasil(1)\n    if btn_luas:\n        result_kecepatan = jarak / waktu\n        rumuskecepatan(\"Rumus\", \"Kecepatan\", \"Jarak / Waktu\")\n        resulkecepatan(\"Kecepatan\", \"Benda\", result_kecepatan)",
+        "detail": "components.kecepatan.kecepatan",
+        "documentation": {}
+    },
+    {
+        "label": "kec",
+        "kind": 2,
+        "importPath": "components.kecepatan.kecepatan",
+        "description": "components.kecepatan.kecepatan",
+        "peekOfCode": "def kec():\n    import streamlit as st\n    kecepatan()",
+        "detail": "components.kecepatan.kecepatan",
+        "documentation": {}
+    },
+    {
+        "label": "waktu",
+        "kind": 2,
+        "importPath": "components.kecepatan.waktu",
+        "description": "components.kecepatan.waktu",
+        "peekOfCode": "def waktu():\n    st.header(\"WAKTU\")\n    st.subheader(\"Mencari Waktu\")\n    jarak = st.number_input(\"Masukkan Jarak : \")\n    kecepatan = st.number_input(\"Masukkan Kecepatan : \")\n    btn_keliling = btnhasil(3)\n    if btn_keliling:\n        result_waktu = jarak/kecepatan\n        rumuskecepatan(\"Rumus\", \"Waktu\", \"Jarak / Kecepatan\")\n        resulkecepatan(\"Waktu\", \"Benda\", result_waktu)",
+        "detail": "components.kecepatan.waktu",
+        "documentation": {}
+    },
+    {
+        "label": "wak",
+        "kind": 2,
+        "importPath": "components.kecepatan.waktu",
+        "description": "components.kecepatan.waktu",
+        "peekOfCode": "def wak():\n    import streamlit as st\n    waktu()",
+        "detail": "components.kecepatan.waktu",
+        "documentation": {}
+    },
+    {
+        "label": "pmbg_bil",
+        "kind": 2,
+        "importPath": "components.operator_matematika.pembagian",
+        "description": "components.operator_matematika.pembagian",
+        "peekOfCode": "def pmbg_bil():\n    st.header(\"PERHITUNGAN PEMBAGIAN MATEMATIKA\")\n    pmbg1 = st.number_input(\"Masukkan bilangan x : \")\n    pmbg2 = st.number_input(\"Masukkan bilangan y : \")\n    btn_pmbg = btnhasil(1)\n    if btn_pmbg:\n        total_pmbg = pmbg1 / pmbg2\n        rumusoperator(\"Pembagian\", \"Pada Bilangan\", \"x / y\")\n        resultoperator(f\"Hasil\", \"Dari Pembagian\", total_pmbg)\ndef pembagian():",
+        "detail": "components.operator_matematika.pembagian",
+        "documentation": {}
+    },
+    {
+        "label": "pembagian",
+        "kind": 2,
+        "importPath": "components.operator_matematika.pembagian",
+        "description": "components.operator_matematika.pembagian",
+        "peekOfCode": "def pembagian():\n    import streamlit as st\n    pmbg_bil()",
+        "detail": "components.operator_matematika.pembagian",
+        "documentation": {}
+    },
+    {
+        "label": "pgrn_bil",
+        "kind": 2,
+        "importPath": "components.operator_matematika.pengurangan",
+        "description": "components.operator_matematika.pengurangan",
+        "peekOfCode": "def pgrn_bil():\n    st.header(\"PERHITUNGAN PENGURANGAN MATEMATIKA\")\n    pgrn1 = st.number_input(\"Masukkan bilangan x : \")\n    pgrn2 = st.number_input(\"Masukkan bilangan y : \")\n    btn_pgrn = btnhasil(1)\n    if btn_pgrn:\n        total_pgrn = pgrn1 - pgrn2\n        rumusoperator(\"Pengurangan\", \"Pada Bilangan\", \"x - y\")\n        resultoperator(\"Hasil\", \"Dari Pengurangan\", total_pgrn)\ndef pengurangan():",
+        "detail": "components.operator_matematika.pengurangan",
+        "documentation": {}
+    },
+    {
+        "label": "pengurangan",
+        "kind": 2,
+        "importPath": "components.operator_matematika.pengurangan",
+        "description": "components.operator_matematika.pengurangan",
+        "peekOfCode": "def pengurangan():\n    import streamlit as st\n    pgrn_bil()",
+        "detail": "components.operator_matematika.pengurangan",
+        "documentation": {}
+    },
+    {
+        "label": "pjmlh_bil",
+        "kind": 2,
+        "importPath": "components.operator_matematika.penjumlahan",
+        "description": "components.operator_matematika.penjumlahan",
+        "peekOfCode": "def pjmlh_bil():\n    st.header(\"PERHITUNGAN PENJUMLAHAN MATEMATIKA\")\n    st.subheader(\"Penjumlahan Pada Dua Bilangan\")\n    pjm1 = st.number_input(\"Masukkan bilangan x : \")\n    pjm2 = st.number_input(\"Masukkan bilangan y : \")\n    btn_pjm = btnhasil(1)\n    if btn_pjm:\n        total_pjm = pjm1 + pjm2\n        rumusoperator(\"Penjumlahan\", \"Pada Bilangan\", \"x + y\")\n        resultoperator(\"Hasil\", \"Dari Penjumlahan\", total_pjm)",
+        "detail": "components.operator_matematika.penjumlahan",
+        "documentation": {}
+    },
+    {
+        "label": "penjumlahan",
+        "kind": 2,
+        "importPath": "components.operator_matematika.penjumlahan",
+        "description": "components.operator_matematika.penjumlahan",
+        "peekOfCode": "def penjumlahan():\n    import streamlit as st\n    pjmlh_bil()",
+        "detail": "components.operator_matematika.penjumlahan",
+        "documentation": {}
+    },
+    {
+        "label": "prkl_bil",
+        "kind": 2,
+        "importPath": "components.operator_matematika.perkalian",
+        "description": "components.operator_matematika.perkalian",
+        "peekOfCode": "def prkl_bil():\n    st.header(\"PERHITUNGAN PERKALIAN MATEMATIKA\")\n    prkl1 = st.number_input(\"Masukkan bilangan x : \")\n    prkl2 = st.number_input(\"Masukkan bilangan y : \")\n    btn_prkl = btnhasil(1)\n    if btn_prkl:\n        total_prkl = prkl1 * prkl2\n        rumusoperator(\"Perkalian\", \"Pada Bilangan\", \"x * y\")\n        resultoperator(f\"Hasil\", \"Dari Perkalian\", total_prkl)\ndef perkalian():",
+        "detail": "components.operator_matematika.perkalian",
+        "documentation": {}
+    },
+    {
+        "label": "perkalian",
+        "kind": 2,
+        "importPath": "components.operator_matematika.perkalian",
+        "description": "components.operator_matematika.perkalian",
+        "peekOfCode": "def perkalian():\n    import streamlit as st\n    prkl_bil()",
+        "detail": "components.operator_matematika.perkalian",
+        "documentation": {}
+    },
+    {
+        "label": "fahrenheittoc",
+        "kind": 2,
+        "importPath": "components.suhu.fahrenheit",
+        "description": "components.suhu.fahrenheit",
+        "peekOfCode": "def fahrenheittoc():\n    st.header(\"KONVERSI SUHU FAHRENHEIT\")\n    st.subheader(\"Celcius Ke Fahrenheit\")\n    c = st.number_input(\"Masukkan Suhu (C) :\")\n    btn_luas = btnhasil(1)\n    if btn_luas:\n        result_luas = (9/5) * c + 32\n        rumussuhu(\"Suhu\", \"Ke Fahrenheit\", \"9/5 x C + 32\")\n        resultsuhu(f\"Suhu\", \"Ke Fahrenheit\", result_luas)\ndef ctofahrenheit():",
+        "detail": "components.suhu.fahrenheit",
+        "documentation": {}
+    },
+    {
+        "label": "ctofahrenheit",
+        "kind": 2,
+        "importPath": "components.suhu.fahrenheit",
+        "description": "components.suhu.fahrenheit",
+        "peekOfCode": "def ctofahrenheit():\n    st.subheader(\"Fahrenheit ke Celcius\")\n    f = st.number_input(\"Masukkan Suhu (F) : \")\n    btn_keliling = btnhasil(2)\n    if btn_keliling:\n        result_keliling =  5/9 * (f-32)\n        rumussuhu(\"Suhu\", \"Ke Celcius\", \"5/9 * (F - 32)\")\n        resultsuhu(\"Suhu\", \"Ke Celcius\", result_keliling)\ndef fahrenheit():\n    import streamlit as st",
+        "detail": "components.suhu.fahrenheit",
+        "documentation": {}
+    },
+    {
+        "label": "fahrenheit",
+        "kind": 2,
+        "importPath": "components.suhu.fahrenheit",
+        "description": "components.suhu.fahrenheit",
+        "peekOfCode": "def fahrenheit():\n    import streamlit as st\n    fahrenheittoc()\n    ctofahrenheit()",
+        "detail": "components.suhu.fahrenheit",
+        "documentation": {}
+    },
+    {
+        "label": "ctokelvin",
+        "kind": 2,
+        "importPath": "components.suhu.kelvin",
+        "description": "components.suhu.kelvin",
+        "peekOfCode": "def ctokelvin():\n    st.header(\"KONVERSI SUHU KELVIN\")\n    st.subheader(\"Celcius Ke Kelvin\")\n    c = st.number_input(\"Masukkan Suhu (C) :\")\n    btn_luas = btnhasil(1)\n    if btn_luas:\n        result_luas = c + 273\n        rumussuhu(\"Suhu\", \"Ke Kelvin\", \"C + 273\")\n        resultsuhu(f\"Suhu\", \"Ke Kelvin\", result_luas)\ndef kelvintoc():",
+        "detail": "components.suhu.kelvin",
+        "documentation": {}
+    },
+    {
+        "label": "kelvintoc",
+        "kind": 2,
+        "importPath": "components.suhu.kelvin",
+        "description": "components.suhu.kelvin",
+        "peekOfCode": "def kelvintoc():\n    st.subheader(\"Kelvin ke Celcius\")\n    k = st.number_input(\"Masukkan Suhu (K) : \")\n    btn_keliling = btnhasil(2)\n    if btn_keliling:\n        result_keliling =  k - 273\n        rumussuhu(\"Suhu\", \"Ke Celcius\", \"K - 273\")\n        resultsuhu(\"Suhu\", \"Ke Celcius\", result_keliling)\ndef kelvin():\n    import streamlit as st",
+        "detail": "components.suhu.kelvin",
+        "documentation": {}
+    },
+    {
+        "label": "kelvin",
+        "kind": 2,
+        "importPath": "components.suhu.kelvin",
+        "description": "components.suhu.kelvin",
+        "peekOfCode": "def kelvin():\n    import streamlit as st\n    ctokelvin()\n    kelvintoc()",
+        "detail": "components.suhu.kelvin",
+        "documentation": {}
+    },
+    {
+        "label": "ctoreamur",
+        "kind": 2,
+        "importPath": "components.suhu.reamur",
+        "description": "components.suhu.reamur",
+        "peekOfCode": "def ctoreamur():\n    st.header(\"KONVERSI SUHU REAMUR\")\n    st.subheader(\"Celcius Ke Reamur\")\n    c = st.number_input(\"Masukkan Suhu (C) :\")\n    btn_luas = btnhasil(1)\n    if btn_luas:\n        result_luas = 4/5 * c\n        rumussuhu(\"Suhu\", \"Ke Reamur\", \"4/5 x C\")\n        resultsuhu(f\"Suhu\", \"Ke Reamur\", result_luas)\ndef reamurtoc():",
+        "detail": "components.suhu.reamur",
+        "documentation": {}
+    },
+    {
+        "label": "reamurtoc",
+        "kind": 2,
+        "importPath": "components.suhu.reamur",
+        "description": "components.suhu.reamur",
+        "peekOfCode": "def reamurtoc():\n    st.subheader(\"Reamur ke Celcius\")\n    r = st.number_input(\"Masukkan Suhu (R) : \")\n    btn_keliling = btnhasil(2)\n    if btn_keliling:\n        result_keliling =  5/4 * r\n        rumussuhu(\"Suhu\", \"Ke Celcius\", \"5/4 x R\")\n        resultsuhu(\"Suhu\", \"Ke Celcius\", result_keliling)\ndef reamur():\n    import streamlit as st",
+        "detail": "components.suhu.reamur",
+        "documentation": {}
+    },
+    {
+        "label": "reamur",
+        "kind": 2,
+        "importPath": "components.suhu.reamur",
+        "description": "components.suhu.reamur",
+        "peekOfCode": "def reamur():\n    import streamlit as st\n    ctoreamur()\n    reamurtoc()",
+        "detail": "components.suhu.reamur",
+        "documentation": {}
+    },
+    {
+        "label": "btnhasil",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def btnhasil(count):\n    return st.button(\"Hasil\", key=count)\n#Bangun Datar\ndef resultbangundatar(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param} Cm\")\ndef rumusbangundatar(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Suhu\ndef resultsuhu(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "resultbangundatar",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def resultbangundatar(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param} Cm\")\ndef rumusbangundatar(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Suhu\ndef resultsuhu(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")\ndef rumussuhu(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Operator",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "rumusbangundatar",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def rumusbangundatar(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Suhu\ndef resultsuhu(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")\ndef rumussuhu(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Operator\ndef resultoperator(types, category, param):\n    return st.info(f\"{types} {category} adalah : {param}\")",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "resultsuhu",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def resultsuhu(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")\ndef rumussuhu(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Operator\ndef resultoperator(types, category, param):\n    return st.info(f\"{types} {category} adalah : {param}\")\ndef rumusoperator(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Kecepatan",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "rumussuhu",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def rumussuhu(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Operator\ndef resultoperator(types, category, param):\n    return st.info(f\"{types} {category} adalah : {param}\")\ndef rumusoperator(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Kecepatan\ndef rumuskecepatan(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "resultoperator",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def resultoperator(types, category, param):\n    return st.info(f\"{types} {category} adalah : {param}\")\ndef rumusoperator(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Kecepatan\ndef rumuskecepatan(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\ndef resulkecepatan(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "rumusoperator",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def rumusoperator(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\n#Kecepatan\ndef rumuskecepatan(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\ndef resulkecepatan(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "rumuskecepatan",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def rumuskecepatan(types, category, param):\n    return st.info(f\"Rumus {types} {category} : {param}\")\ndef resulkecepatan(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "resulkecepatan",
+        "kind": 2,
+        "importPath": "custom_module.custom",
+        "description": "custom_module.custom",
+        "peekOfCode": "def resulkecepatan(types, category, param):\n    return st.success(f\"{types} {category} adalah : {param}\")",
+        "detail": "custom_module.custom",
+        "documentation": {}
+    },
+    {
+        "label": "page_names_to_funcs",
+        "kind": 5,
+        "importPath": "pages.Bangun-Datar",
+        "description": "pages.Bangun-Datar",
+        "peekOfCode": "page_names_to_funcs = {\n    \"Persegi\": persegi,\n    \"Persegi Panjang\": persegi_panjang,\n    \"Lingkaran\": lingkaran,\n    \"Segitiga\": segitiga,\n}\ndemo_name = st.sidebar.selectbox(\n    \"Pilih bangun datar\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Bangun-Datar",
+        "documentation": {}
+    },
+    {
+        "label": "demo_name",
+        "kind": 5,
+        "importPath": "pages.Bangun-Datar",
+        "description": "pages.Bangun-Datar",
+        "peekOfCode": "demo_name = st.sidebar.selectbox(\n    \"Pilih bangun datar\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Bangun-Datar",
+        "documentation": {}
+    },
+    {
+        "label": "st_calculator",
+        "kind": 2,
+        "importPath": "pages.calculator",
+        "description": "pages.calculator",
+        "peekOfCode": "def st_calculator(calc_html,width=700,height=700):\n\tcalc_file = codecs.open(calc_html,'r')\n\tpage = calc_file.read()\n\tcomponents.html(page,width=width,height=height,scrolling=False)\ndef main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"Calculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"Calculator\":\n\t\tst.subheader(\"Calculator\")",
+        "detail": "pages.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pages.calculator",
+        "description": "pages.calculator",
+        "peekOfCode": "def main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"Calculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"Calculator\":\n\t\tst.subheader(\"Calculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/calculator/calculator.html')\nif __name__ == '__main__':\n\tmain()",
+        "detail": "pages.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "\tcalc_file",
+        "kind": 5,
+        "importPath": "pages.calculator",
+        "description": "pages.calculator",
+        "peekOfCode": "\tcalc_file = codecs.open(calc_html,'r')\n\tpage = calc_file.read()\n\tcomponents.html(page,width=width,height=height,scrolling=False)\ndef main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"Calculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"Calculator\":\n\t\tst.subheader(\"Calculator\")\n\t\t# components.html(html_temp)",
+        "detail": "pages.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "\tpage",
+        "kind": 5,
+        "importPath": "pages.calculator",
+        "description": "pages.calculator",
+        "peekOfCode": "\tpage = calc_file.read()\n\tcomponents.html(page,width=width,height=height,scrolling=False)\ndef main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"Calculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"Calculator\":\n\t\tst.subheader(\"Calculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/calculator/calculator.html')",
+        "detail": "pages.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "\tmenu",
+        "kind": 5,
+        "importPath": "pages.calculator",
+        "description": "pages.calculator",
+        "peekOfCode": "\tmenu = [\"Calculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"Calculator\":\n\t\tst.subheader(\"Calculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/calculator/calculator.html')\nif __name__ == '__main__':\n\tmain()",
+        "detail": "pages.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "\tchoice",
+        "kind": 5,
+        "importPath": "pages.calculator",
+        "description": "pages.calculator",
+        "peekOfCode": "\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"Calculator\":\n\t\tst.subheader(\"Calculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/calculator/calculator.html')\nif __name__ == '__main__':\n\tmain()",
+        "detail": "pages.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "st_calculator",
+        "kind": 2,
+        "importPath": "pages.Kalkulator",
+        "description": "pages.Kalkulator",
+        "peekOfCode": "def st_calculator(calc_html,width=700,height=700):\n\tcalc_file = codecs.open(calc_html,'r')\n\tpage = calc_file.read()\n\tcomponents.html(page,width=width,height=height,scrolling=False)\ndef main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"kalculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"kalculator\":\n\t\tst.subheader(\"Kalculator\")",
+        "detail": "pages.Kalkulator",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pages.Kalkulator",
+        "description": "pages.Kalkulator",
+        "peekOfCode": "def main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"kalculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"kalculator\":\n\t\tst.subheader(\"Kalculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/kalculator/calculator.html')\nif __name__ == '__main__':\n\tmain()",
+        "detail": "pages.Kalkulator",
+        "documentation": {}
+    },
+    {
+        "label": "\tcalc_file",
+        "kind": 5,
+        "importPath": "pages.Kalkulator",
+        "description": "pages.Kalkulator",
+        "peekOfCode": "\tcalc_file = codecs.open(calc_html,'r')\n\tpage = calc_file.read()\n\tcomponents.html(page,width=width,height=height,scrolling=False)\ndef main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"kalculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"kalculator\":\n\t\tst.subheader(\"Kalculator\")\n\t\t# components.html(html_temp)",
+        "detail": "pages.Kalkulator",
+        "documentation": {}
+    },
+    {
+        "label": "\tpage",
+        "kind": 5,
+        "importPath": "pages.Kalkulator",
+        "description": "pages.Kalkulator",
+        "peekOfCode": "\tpage = calc_file.read()\n\tcomponents.html(page,width=width,height=height,scrolling=False)\ndef main():\n\t\"\"\"A Calculator App with Streamlit Components\"\"\"\n\tmenu = [\"kalculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"kalculator\":\n\t\tst.subheader(\"Kalculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/kalculator/calculator.html')",
+        "detail": "pages.Kalkulator",
+        "documentation": {}
+    },
+    {
+        "label": "\tmenu",
+        "kind": 5,
+        "importPath": "pages.Kalkulator",
+        "description": "pages.Kalkulator",
+        "peekOfCode": "\tmenu = [\"kalculator\"]\n\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"kalculator\":\n\t\tst.subheader(\"Kalculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/kalculator/calculator.html')\nif __name__ == '__main__':\n\tmain()",
+        "detail": "pages.Kalkulator",
+        "documentation": {}
+    },
+    {
+        "label": "\tchoice",
+        "kind": 5,
+        "importPath": "pages.Kalkulator",
+        "description": "pages.Kalkulator",
+        "peekOfCode": "\tchoice = st.sidebar.selectbox(\"Menu\",menu)\n\tif choice == \"kalculator\":\n\t\tst.subheader(\"Kalculator\")\n\t\t# components.html(html_temp)\n\t\tst_calculator('./components/kalculator/calculator.html')\nif __name__ == '__main__':\n\tmain()",
+        "detail": "pages.Kalkulator",
+        "documentation": {}
+    },
+    {
+        "label": "page_names_to_funcs",
+        "kind": 5,
+        "importPath": "pages.Kecepatan-Jarak-Waktu",
+        "description": "pages.Kecepatan-Jarak-Waktu",
+        "peekOfCode": "page_names_to_funcs = {\n    \"Kecepatan\": kecepatan,\n    \"Jarak\": jarak,\n    \"Waktu\": waktu,\n}\ndemo_name = st.sidebar.selectbox(\n    \"Mencari Kecepatan, Jarak, Waktu\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Kecepatan-Jarak-Waktu",
+        "documentation": {}
+    },
+    {
+        "label": "demo_name",
+        "kind": 5,
+        "importPath": "pages.Kecepatan-Jarak-Waktu",
+        "description": "pages.Kecepatan-Jarak-Waktu",
+        "peekOfCode": "demo_name = st.sidebar.selectbox(\n    \"Mencari Kecepatan, Jarak, Waktu\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Kecepatan-Jarak-Waktu",
+        "documentation": {}
+    },
+    {
+        "label": "page_names_to_funcs",
+        "kind": 5,
+        "importPath": "pages.Konversi-Suhu",
+        "description": "pages.Konversi-Suhu",
+        "peekOfCode": "page_names_to_funcs = {\n    \"Fahrenheit\": fahrenheit,\n    \"Reamur\": reamur,\n    \"Kelvin\": kelvin,\n}\ndemo_name = st.sidebar.selectbox(\n    \"Pilih Konversi Suhu\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Konversi-Suhu",
+        "documentation": {}
+    },
+    {
+        "label": "demo_name",
+        "kind": 5,
+        "importPath": "pages.Konversi-Suhu",
+        "description": "pages.Konversi-Suhu",
+        "peekOfCode": "demo_name = st.sidebar.selectbox(\n    \"Pilih Konversi Suhu\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Konversi-Suhu",
+        "documentation": {}
+    },
+    {
+        "label": "page_names_to_funcs",
+        "kind": 5,
+        "importPath": "pages.Operator-Matematika",
+        "description": "pages.Operator-Matematika",
+        "peekOfCode": "page_names_to_funcs = {\n    \"Penjumlahan\" : penjumlahan,\n    \"Pengurangan\" : pengurangan,\n    \"Perkalian\"   : perkalian,\n    \"Pembagian\"   : pembagian,\n}\ndemo_name = st.sidebar.selectbox(\n    \"Pilih Operator Matematika\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Operator-Matematika",
+        "documentation": {}
+    },
+    {
+        "label": "demo_name",
+        "kind": 5,
+        "importPath": "pages.Operator-Matematika",
+        "description": "pages.Operator-Matematika",
+        "peekOfCode": "demo_name = st.sidebar.selectbox(\n    \"Pilih Operator Matematika\", page_names_to_funcs.keys())\npage_names_to_funcs[demo_name]()",
+        "detail": "pages.Operator-Matematika",
+        "documentation": {}
+    },
+    {
+        "label": "video_url",
+        "kind": 5,
+        "importPath": "pages.Youtube-downloader",
+        "description": "pages.Youtube-downloader",
+        "peekOfCode": "video_url = st.text_input(\"Masukkan Link Video Youtube yang anda salin\")\ngenre = st.radio(\n\"Pilih Format of Video\",\n('360 P', '720 P', '1080 P', 'audio/mp4 (128 kbps)', 'audio/webm (50 kbps)', 'audio/webm (70 kbps)', 'audio/webm (160 kbps)'))\nif video_url:\n    video = YouTube(video_url)\n    st.image(video.thumbnail_url, width=300)\n    st.subheader('''\n    {}\n    ## Length: {} seconds",
+        "detail": "pages.Youtube-downloader",
+        "documentation": {}
+    },
+    {
+        "label": "genre",
+        "kind": 5,
+        "importPath": "pages.Youtube-downloader",
+        "description": "pages.Youtube-downloader",
+        "peekOfCode": "genre = st.radio(\n\"Pilih Format of Video\",\n('360 P', '720 P', '1080 P', 'audio/mp4 (128 kbps)', 'audio/webm (50 kbps)', 'audio/webm (70 kbps)', 'audio/webm (160 kbps)'))\nif video_url:\n    video = YouTube(video_url)\n    st.image(video.thumbnail_url, width=300)\n    st.subheader('''\n    {}\n    ## Length: {} seconds\n    ## Rating: {} ",
+        "detail": "pages.Youtube-downloader",
+        "documentation": {}
+    }
+]
