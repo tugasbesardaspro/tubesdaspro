@@ -5,7 +5,7 @@ from pytube import YouTube
 
 link = "https://github.com/tugasbesardaspro/tubesdaspro/tree/main/components/youtube_downloader/"
 
-st.image(f'{link}yt.png',use_column_width=True)
+st.image(f'./components/youtube_downloader/yt.png',use_column_width=True)
 st.header("APLIKASI DOWNLOAD VIDEO DAN AUDIO YOUTUBE")
 
 
