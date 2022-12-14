@@ -2,7 +2,7 @@ import streamlit as st
 from pytube import YouTube
 
 
-link = './components/youtube_downloader/'
+link = '../components/youtube_downloader/'
 
 st.image(f'./components/youtube_downloader/yt.png', use_column_width=True)
 st.header("APLIKASI DOWNLOAD VIDEO DAN AUDIO YOUTUBE")
