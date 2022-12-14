@@ -63,7 +63,7 @@ if video_url:
         btntype = 'audio'
 
     if getId:
-        getId.download(f"{link}")
+        getId.download(f'./components/youtube_downloader/download/')
         video_file = open(f"{link}{video.title}.{subtype}", "rb")
         video_bytes = video_file.read()
 
