@@ -81,4 +81,6 @@ if st.button("download"):
     if getId:
         downloads_path = str(Path.home() / "Downloads")
         getId.download(get_download_path())        
+        st.write(downloads_path)
+        st.write(get_download_path())
         st.success("Video anda telah berhasil di download ke folder downloads")
