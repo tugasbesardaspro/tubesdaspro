@@ -3,7 +3,7 @@ from pytube import YouTube
 from pathlib import Path
 
 
-st.image('yt.png', use_column_width=True)
+st.image('./components/youtube_downloader/yt.png', use_column_width=True)
 st.header("APLIKASI DOWNLOAD VIDEO DAN AUDIO YOUTUBE")
 
 
