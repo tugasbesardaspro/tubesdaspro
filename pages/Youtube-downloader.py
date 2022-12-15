@@ -65,18 +65,18 @@ if st.button("download"):
         subType('webm', 'audio')
 
     if getId:
-        downloads_dir = 'C:\Users\HP\Downloads'
+        downloads_dir = '../components/youtube_downloader/Downloads'
         getId.download(downloads_dir)        
         st.write(downloads_dir)
         st.success("Video anda telah berhasil di download ke folder downloads")
-        video_file = open(f"./download/{video.title}.{subtype}", "rb")
+        video_file = open(f"{downloads_dir}/{video.title}.{subtype}", "rb")
         video_bytes = video_file.read()
 
         st.video(video_bytes)
         
         video.title
 
-    with open(f"./download/{video.title}.{subtype}", "rb") as file:
+    with open(f"{downloads_dir}/{video.title}.{subtype}", "rb") as file:
         btn = st.download_button(
                 label=f"Download {btntype}",
                 data=file,
