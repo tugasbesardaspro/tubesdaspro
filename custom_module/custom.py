@@ -1,8 +1,11 @@
 import streamlit as st
 
-#Button
-def btnhasil(count):
-    return st.button("Hasil", key=count)
+#semua
+def penjelasan(param):
+    return st.warning(param)
+
+def btnhasil(param):
+    return st.button("Hasil", key=param)
 
 #Bangun Datar
 def resultbangundatar(types, category, param):

@@ -3,18 +3,6 @@ from pytube import YouTube
 from pathlib import Path
 import os
 
-def get_download_path():
-    """Returns the default downloads path for linux or windows"""
-    if os.name == 'nt':
-        import winreg
-        sub_key = r'SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders'
-        downloads_guid = '{374DE290-123F-4565-9164-39C4925E467B}'
-        with winreg.OpenKey(winreg.HKEY_CURRENT_USER, sub_key) as key:
-            location = winreg.QueryValueEx(key, downloads_guid)[0]
-        return location
-    else:
-        return os.path.join(os.path.expanduser('~'), 'downloads')
-
 
 st.image('./components/youtube_downloader/yt.png', use_column_width=True)
 st.header("APLIKASI DOWNLOAD VIDEO DAN AUDIO YOUTUBE")
@@ -79,8 +67,7 @@ if st.button("download"):
         subType('webm', 'audio')
 
     if getId:
-        downloads_path = str(Path.home() / "Downloads")
-        getId.download(get_download_path())        
+        downloads_path = str(os.path.join(Path.home(), "Downloads"))
+        getId.download(downloads_path)        
         st.write(downloads_path)
-        st.write(get_download_path())
         st.success("Video anda telah berhasil di download ke folder downloads")

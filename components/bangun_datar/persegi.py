@@ -1,12 +1,7 @@
 import streamlit as st
-import turtle
-# Utils Pkgs
 import codecs
-
-# Components Pkgs
 import streamlit.components.v1 as components
 from custom_module.custom import *
-
 
 def luas_persegi():
     st.header("BANGUN DATAR PERSEGI")
@@ -15,46 +10,43 @@ def luas_persegi():
 
     luas_persegi = st.number_input("Masukkan Sisi :")
 
-    btn_luas = btnhasil(1)
+    result_luas = luas_persegi * luas_persegi
 
-    if btn_luas:
-        result_luas = luas_persegi * luas_persegi
+    f=codecs.open("./components/htmlFiles/luas-persegi.html", 'r')
+    page = f.read().format(luas = luas_persegi)
+    components.html(page,width=300,height=250,scrolling=False)
+
+    if st.button("Hasil") or luas_persegi:
+        
 
         rumusbangundatar("Luas", "Persegi", "S x S")
 
+
         resultbangundatar("Luas", "Persegi", result_luas)
 
-     
-
-        # Custom Components Fxn
-        f=codecs.open("./components/htmlFiles/luas-persegi.html", 'r')
-        page = f.read().format(luas = luas_persegi+100)
-        components.html(page,width=300,height=300,scrolling=False)
-        
-
+        penjelasan("Persegi merupakan bangun datar yang memiliki empat sisi dengan panjang yang seluruhnya sama. Untuk menghitung luas persegi, maka rumus yang digunakan adalah L = s x s. Dengan keterangan L adalah luas, sedangkan s adalah sisi.")
 
 def keliling_persegi():
     st.subheader("Mencari Keliling")
 
     keliling_persegi = st.number_input("Masukkan Sisi : ")
 
-    btn_keliling = btnhasil(2)
+    result_keliling = 4*keliling_persegi
 
-    if btn_keliling:
+    # Custom Components Fxn
+    f=codecs.open("./components/htmlFiles/keliling-persegi.html", 'r')
+    page2 = f.read().format(keliling = result_keliling)
+    components.html(page2,width=300,height=250,scrolling=False)
 
-        result_keliling = 4*keliling_persegi 
+    if st.button("Keliling Persegi") or keliling_persegi:
 
-        rumusbangundatar("Keliling", "Persegi", "S x 4")
+        rumusbangundatar("Keliling", "Persegi", "4 x s")
 
         resultbangundatar("Keliling", "Persegi", result_keliling)
 
-         # Custom Components Fxn
-        f=codecs.open("./components/htmlFiles/keliling-persegi.html", 'r')
-        page = f.read().format(keliling = keliling_persegi)
-        components.html(page,width=300,height=300,scrolling=False)
+        penjelasan("Keliling adalah total penjumlahan dari semua sisi luar bangun datar bentuk apa pun, termasuk tidak beraturan dan bangun gabungan. Bicara soal rumus keliling persegi, berikut hal yang perlu Moms ketahui: Rumus keliling persegi empat sisi: K = 4 x s.")
 
 
-def persegi():
-    import streamlit as st
+def persegi():    
     luas_persegi()
     keliling_persegi()

@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 st.title("SELAMAT DATANG DI APLIKASI ALL IN ONE")
 
 st.write("Aplikasi operator all in one sederhana yang memuat berbagai macam perhitungan")
