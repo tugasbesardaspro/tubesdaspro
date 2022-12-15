@@ -67,8 +67,8 @@ if st.button("download"):
     if getId:
         downloads_dir = '../components/youtube_downloader/Downloads'
         getId.download(downloads_dir)        
-        st.write(downloads_dir)
-        st.success("Video anda telah berhasil di download ke folder downloads")
+        # st.write(downloads_dir)
+        # st.success("Video anda telah berhasil di download ke folder downloads")
         video_file = open(f"{downloads_dir}/{video.title}.{subtype}", "rb")
         video_bytes = video_file.read()
 
