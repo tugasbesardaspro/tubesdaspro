@@ -7,8 +7,6 @@ import os
 st.image('./components/youtube_downloader/yt.png', use_column_width=True)
 st.header("APLIKASI DOWNLOAD VIDEO DAN AUDIO YOUTUBE")
 
-
-
 video_url = st.text_input("Masukkan Link Video Youtube yang anda salin")
 
 genre = st.radio(
@@ -67,7 +65,24 @@ if st.button("download"):
         subType('webm', 'audio')
 
     if getId:
-        downloads_path = str(os.path.join(Path.home(), "Downloads"))
-        getId.download(downloads_path)        
-        st.write(downloads_path)
+        downloads_dir = os.path.join(os.path.expanduser('~'), 'Downloads')
+        getId.download(downloads_dir)        
+        st.write(downloads_dir)
         st.success("Video anda telah berhasil di download ke folder downloads")
+        video_file = open(f"./download/{video.title}.{subtype}", "rb")
+        video_bytes = video_file.read()
+
+        st.video(video_bytes)
+        
+        video.title
+
+    with open(f"./download/{video.title}.{subtype}", "rb") as file:
+        btn = st.download_button(
+                label=f"Download {btntype}",
+                data=file,
+                file_name=f"{video.title}.{subtype}",            
+            )
+
+
+
+    
