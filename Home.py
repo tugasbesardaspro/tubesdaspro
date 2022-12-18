@@ -24,7 +24,7 @@ background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); /* W3C, IE 10+
 }
 
 .e1tzin5v0{
-background: rgba(0, 0, 0, 0);
+background: rgba(0, 0, 0, 0.37);
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(20px);
