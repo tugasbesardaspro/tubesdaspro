@@ -19,6 +19,10 @@ background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);  /* Ch
 background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+[data-testid="stSidebar"] .e1tzin5v0{
+  background: transparent
+}
+
 .e1tzin5v0{
 /* From https://css.glass */
 background: rgba(55, 52, 52, 0.23);
