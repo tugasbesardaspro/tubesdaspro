@@ -24,13 +24,11 @@ background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); /* W3C, IE 10+
 }
 
 .e1tzin5v0{
-/* From https://css.glass */
-background: rgba(55, 52, 52, 0.23);
+background: rgba(0, 0, 0, 0);
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(12.9px);
--webkit-backdrop-filter: blur(12.9px);
-border: 1px solid rgba(55, 52, 52, 0.05);
+backdrop-filter: blur(20px);
+-webkit-backdrop-filter: blur(20px);
 padding: 2rem;
 }
 
