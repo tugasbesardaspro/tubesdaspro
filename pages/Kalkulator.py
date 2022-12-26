@@ -17,12 +17,12 @@ def st_calculator(calc_html,width=700,height=700):
 def main():
 	"""A Calculator App with Streamlit Components"""
 
-	menu = ["kalculator"]
+	menu = ["kalkulator"]
 	choice = st.sidebar.selectbox("Menu",menu)
 
-	if choice == "kalculator":
+	if choice == "kalkulator":
 		
-		st.subheader("Kalculator")
+		st.subheader("Kalkulator")
 		# components.html(html_temp)
 		st_calculator('./components/kalculator/calculator.html')
 

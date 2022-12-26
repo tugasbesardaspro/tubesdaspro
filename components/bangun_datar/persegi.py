@@ -44,7 +44,7 @@ def keliling_persegi():
 
         resultbangundatar("Keliling", "Persegi", result_keliling)
 
-        penjelasan("Keliling adalah total penjumlahan dari semua sisi luar bangun datar bentuk apa pun, termasuk tidak beraturan dan bangun gabungan. Bicara soal rumus keliling persegi, berikut hal yang perlu kalian ketahui: Rumus keliling persegi empat sisi: K = 4 x s.")
+        penjelasan("Keliling adalah total penjumlahan dari semua sisi luar bangun datar bentuk apa pun, termasuk tidak beraturan dan bangun gabungan. Bicara soal rumus keliling persegi, berikut hal yang perlu Moms ketahui: Rumus keliling persegi empat sisi: K = 4 x s.")
 
 
 def persegi():    

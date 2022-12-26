@@ -10,7 +10,7 @@ def luas_jajargenjang():
     st.subheader("Mencari Luas")
 
     alas_jajargenjang = st.number_input("Masukkan Alas")
-    tinggi_jajargenjang = st.number_input("Masukkan Tinngi")
+    tinggi_jajargenjang = st.number_input("Masukkan Tinggi")
 
     result_luas = alas_jajargenjang * tinggi_jajargenjang
 

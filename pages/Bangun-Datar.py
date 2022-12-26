@@ -5,6 +5,9 @@ from components.bangun_datar.persegi_panjang import persegi_panjang
 from components.bangun_datar.lingkaran import lingkaran
 from components.bangun_datar.segitiga import segitiga
 from components.bangun_datar.jajargenjang import jajargenjang
+from components.bangun_datar.trapesium import trapesium
+from components.bangun_datar.layanglayang import layang
+from components.bangun_datar.belahketupat import ketupat
 
 page_names_to_funcs = {
     "Persegi": persegi,
@@ -12,6 +15,9 @@ page_names_to_funcs = {
     "Lingkaran": lingkaran,
     "Segitiga": segitiga,
     "Jajargenjang": jajargenjang,
+    "Trapesium": trapesium,
+    "Layang Layang": layang,
+    "Belah Ketupat": ketupat,
 }
 
 demo_name = st.sidebar.selectbox(
